@@ -1,24 +1,15 @@
 public class ArrayClass {
 
-
-
     public static void main(String[] args) {
 
         int num =9;
-
         int[] nums = new int[5];
-
         nums[0] = 9;
-
         nums[3] = 10;
-
         nums[4] = nums[0]+nums[3];
 
 //        System.out.println(nums[4]);
-
 //        System.out.println(nums[1]);
-
-
 
         int[] numbers = {2,6,3,2,15,4,9};
 
@@ -48,11 +39,7 @@ public class ArrayClass {
 
         System.out.println(sum);
 
-
-
         int max = numbers[6];
-
-
 
         //find highest value inside the array
 
@@ -67,8 +54,6 @@ public class ArrayClass {
         }
 
         System.out.println(max);
-
-
 
         //print all the odd numbers from the array
 
