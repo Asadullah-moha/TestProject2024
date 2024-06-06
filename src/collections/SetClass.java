@@ -16,9 +16,7 @@ public class SetClass {
         hashSet.add(93);
         hashSet.add(7);
         System.out.println("************");
-        for (int num: linkedHashSet){
-
-        }
+//        for (int num: linkedHashSet){}
 
 
     }
